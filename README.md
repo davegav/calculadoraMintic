@@ -1,2 +1,3 @@
 # calculadoraMintic
-Calculadora creada por 80 personas
+Calculadora creada por 80 personas.
+Por ahora solo esta Alexander.
