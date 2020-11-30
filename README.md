@@ -1,14 +1,21 @@
 # calculadoraMintic
-<<<<<<< HEAD
+
 Calculadora creada por 80 personas
 
+# Esta es una nota de Alexander
 
 -- Prueba de AndradeW
 
+
 FelixDavid12: prueba
-=======
+
 Calculadora creada por 80 personas.
 Por ahora solo esta Alexander.
->>>>>>> 53a213066bf4c7ea2316c277e122bc372da1b060
+<<<<<<< HEAD
+Soy Juan N
+=======
+
 Prueba de pablito
-Prueba de AndradeW
+
+Hola mundo - psanchezp31
+>>>>>>> 0dabbb86b9785282d46d2d80ff51f37060d02b21
