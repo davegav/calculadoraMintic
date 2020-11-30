@@ -15,5 +15,7 @@ def suma(x, y):
 def resta(x, y):
     return x-y
 
-
+#   MULTIPLICACION
+def resta(x, y):
+    return x*y
 
