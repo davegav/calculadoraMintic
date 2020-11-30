@@ -4,8 +4,8 @@ print("Hola mundo")
 
 #----- Calculadora------
 
-x = input('Ingrese un numero': )
-y = input(Ingrese otro numero: )
+x = input('Ingrese un numero:' )
+y = input('Ingrese otro numero:' )
 
 #   SUMA
 def suma(x, y):
