@@ -4,9 +4,9 @@ print("Hola mundo")
 
 #----- Calculadora------
 
-x = input('Ingrese un numero': )
-y = input(Ingrese otro numero: )
-
+x = input('Ingrese un numero:' )
+y = input('Ingrese otro numero:')
+z = input()
 #   SUMA
 def suma(x, y):
     return x+y
@@ -15,5 +15,7 @@ def suma(x, y):
 def resta(x, y):
     return x-y
 
-
+#   RESTA de tres numeros
+def resta(x, y,z):
+    return x-y-z
 
