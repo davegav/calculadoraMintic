@@ -15,4 +15,7 @@ def suma(x, y):
 def resta(x, y):
     return x-y
 
+#   SUMA de 3 numeros
+def suma3(x, y, z):
+    return x+y+z
 
