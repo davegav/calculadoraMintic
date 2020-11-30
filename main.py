@@ -11,4 +11,8 @@ y = input(Ingrese otro numero: )
 def suma(x, y):
     return x+y
 
+#   RESTA
+def resta(x, y):
+    return x-y
+
 
