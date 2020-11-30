@@ -15,9 +15,15 @@ def suma(x, y):
 def resta(x, y):
     return x-y
 
+<<<<<<< HEAD
 #   RESTA de tres numeros
 def resta(x, y,z):
     return x-y-z
+=======
+#   SUMA de 3 numeros
+def suma3(x, y, z):
+    return x+y+z
+>>>>>>> ac1c7e194d4ccc1731af66904d32ca01b8941c06
 
 #   MULTIPLICACION
 def resta(x, y):
