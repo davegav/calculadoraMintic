@@ -9,7 +9,7 @@ y = input(Ingrese otro numero: )
 
 #   SUMA
 def suma(x, y):
-    return x+y
+    return x+2
 
 #   RESTA
 def resta(x, y):
