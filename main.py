@@ -7,10 +7,6 @@ print("Hola mundo")
 x = input(Ingrese un numero: )
 y = input(Ingrese otro numero: )
 
-#   SUMA
-def suma(x, y):
-    return x+2
-
 #   RESTA
 def resta(x, y):
     return x-y
@@ -19,3 +15,4 @@ def resta(x, y):
 def suma3(x, y, z):
     return x+y+z
 
+suma(1,2)
