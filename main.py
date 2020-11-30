@@ -19,3 +19,6 @@ def resta(x, y):
 def resta(x, y,z):
     return x-y-z
 
+#   MULTIPLICACION
+def resta(x, y):
+    return x*y
